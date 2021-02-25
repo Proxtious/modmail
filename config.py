@@ -1,5 +1,5 @@
 # Bot's token
-token = ""
+token = "m93nhh_Ab6Qv18SsHhMMgvJWvVXLIu_h"
 
 # Top.gg token
 topgg_token = ""
@@ -56,7 +56,7 @@ activity = f"DM to Contact Staff | {default_prefix}help"
 fetch_all_members = True
 
 # The main bot owner
-owner = 000000000000000000
+owner = 814439727813623809
 
 # Bot owners that have access to owner commands
 owners = []
@@ -82,9 +82,9 @@ initial_extensions = [
 ]
 
 # Channels to send logs
-join_channel = None
-event_channel = None
-admin_channel = None
+join_channel = 814441335473176616
+event_channel = 814441335473176616
+admin_channel = 814441335473176616
 
 # This is where patron roles are at
 main_server = None
