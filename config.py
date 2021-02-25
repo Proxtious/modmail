@@ -1,11 +1,11 @@
 # Bot's token
-token = ""
+token = "m93nhh_Ab6Qv18SsHhMMgvJWvVXLIu_h"
 
 # Top.gg token
 topgg_token = ""
 
 # Discord Bots token
-dbots_token = "m93nhh_Ab6Qv18SsHhMMgvJWvVXLIu_h"
+dbots_token = ""
 
 # Discord Bot List token
 dbl_token = ""
